@@ -1,0 +1,1 @@
+Defi Simplon sur le CSS. Il s'agissait de reproduire une maquette en utilisant de CSS. L'image doit est identique au screesnhot fourni et il faut suivre les indications listé dans le pdf "Sujet Donut Whole".
